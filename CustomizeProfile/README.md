@@ -90,3 +90,5 @@ This will open up your `User` preferences, a great place to make the changes abo
 explore somewhat, though take a bit of caution with any setting that has to do with spacing -- our work with Python this
 semester relies on everyone having common settings in this respect. However, if you change a setting and it creates
 issues for you, we can always reset your settings and start again!
+
+For more information about settings, take a look at the official documentation, [located here](https://code.visualstudio.com/docs/getstarted/settings)

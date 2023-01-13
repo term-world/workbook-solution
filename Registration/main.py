@@ -6,4 +6,4 @@ def load_registrants(filename: str = ""):
         runners = fh.readlines()
     return runners
 
-print(load_registrants("data/registrants.csv"))
+registrants = load_registrants("data/registrants.csv")
